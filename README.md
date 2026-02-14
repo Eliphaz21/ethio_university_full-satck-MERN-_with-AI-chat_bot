@@ -39,7 +39,8 @@ CSEC ASTU Dev Division - Project
  <img width="2214" height="1249" alt="Screenshot 2026-02-14 233702" src="https://github.com/user-attachments/assets/0729036e-04ee-49f8-92a9-d6199608da42" />
 
  #this how dashbored look like
- ![Uploading Screenshot 2026-02-14 232956.png…]()
+  ![Uploading Screenshot 2026-02-14 232956.png…]()
+
 
 #AI chat  bot look like
 <img width="2194" height="1174" alt="Screenshot 2026-02-14 233121" src="https://github.com/user-attachments/assets/60d6a2b9-e147-4056-9439-31af5135d716" />
