@@ -1,4 +1,4 @@
-# 🇪🇹 EthioUni Portal  
+<img width="1740" height="1206" alt="Screenshot 2026-02-14 233238" src="https://github.com/user-attachments/assets/d1ac6602-9f8a-42f1-9af6-3e148d87ff1e" /># 🇪🇹 EthioUni Portal  
 ### MERN Stack + MongoDB Vector Search + RAG + Gemini AI
 
 EthioUni Portal is a full-stack MERN application that provides a modern university listing platform integrated with an AI-powered chatbot.
@@ -34,7 +34,22 @@ CSEC ASTU Dev Division - Project
 - MongoDB Atlas Vector Search (Cosine similarity)
 
 ---
+#How the website look like
+ ##This how login page look like
+ <img width="2214" height="1249" alt="Screenshot 2026-02-14 233702" src="https://github.com/user-attachments/assets/0729036e-04ee-49f8-92a9-d6199608da42" />
 
+ #this how dashbored look like
+ ![Uploading Screenshot 2026-02-14 232956.png…]()
+
+#AI chat  bot look like
+<img width="2194" height="1174" alt="Screenshot 2026-02-14 233121" src="https://github.com/user-attachments/assets/60d6a2b9-e147-4056-9439-31af5135d716" />
+ #This how admin panel look like
+ <img width="2215" height="1273" alt="Screenshot 2026-02-14 233141" src="https://github.com/user-attachments/assets/2d62c3c0-24f3-4cf5-b05f-07fa330ebf36" />
+
+ #this how each university  deails look like
+ <img width="1740" height="1206" alt="image" src="https://github.com/user-attachments/assets/e10d0a44-20f1-4b85-99b4-29bfcf9b9a01" />
+
+ 
 #  Features
 
 ## 1️⃣ Authentication & Authorization
