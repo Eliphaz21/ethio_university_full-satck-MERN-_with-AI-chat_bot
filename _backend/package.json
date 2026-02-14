@@ -2,7 +2,7 @@
   "name": "ethiou-backend",
   "version": "1.0.0",
   "description": "Backend for EthioUni portal with AI chatbot",
-  "main": "src/server.ts",
+  "main": "dist/server.ts",
   "type": "module",
   "scripts": {
     "start": "node dist/server.js",
